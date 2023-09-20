@@ -2,11 +2,11 @@
 
 Hi! I'm Misha, a `/(Senior Fullstack Developer | Technical Lead)/` from Tel Aviv, Israel 🇮🇱
 
-I like to contribute to open source projects in my free time.
+I like to contribute to open-source projects in my free time.
 
 [![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=github)](https://github.com/sponsors/MishaKav)
 [![wakatime](https://wakatime.com/badge/user/f838c8aa-c197-42f0-b335-cd1d26159dfd.svg)](https://wakatime.com/@f838c8aa-c197-42f0-b335-cd1d26159dfd)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=MishaKav&left_color=gray&right_color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=MishaKav)
 
 <a href="https://github.com/MishaKav">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MishaKav&show_icons=true&theme=default&hide_title=false&include_all_commits=true" />
