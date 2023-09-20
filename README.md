@@ -9,10 +9,10 @@ I like to contribute to open-source projects in my free time.
 ![Profile views](https://komarev.com/ghpvc/?username=MishaKav&base=654)
 
 <a href="https://github.com/MishaKav">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MishaKav&show_icons=true&theme=default&hide_title=false&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MishaKav&show_icons=true&theme=default&hide_title=false&include_all_commits=false" />
 </a>
 <a href="https://github.com/MishaKav">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MishaKav&theme=default&hide_border=false&date_format=j%20M%5B%20Y%5D" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MishaKav" />
 </a>
 
 ---
