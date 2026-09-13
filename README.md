@@ -74,7 +74,26 @@ I like to contribute to open-source projects in my free time.
 > This action allows you to create badges for your README.md with shields.io which may change with every commit. To do this, this action does not need to push anything to your repository!
 
 [![Stars of dynamic-badges-action on GitHub](https://img.shields.io/github/stars/Schneegans/dynamic-badges-action?label=Stars&logo=github)](https://github.com/Schneegans/dynamic-badges-action)
-[![Top language of dynamic-badges-action](https://img.shields.io/github/languages/top/withfig/autocomplete)](https://github.com/Schneegans/dynamic-badges-action)
+[![Top language of dynamic-badges-action](https://img.shields.io/github/languages/top/Schneegans/dynamic-badges-action)](https://github.com/Schneegans/dynamic-badges-action)
+
+---
+
+[cyberjunky](https://github.com/cyberjunky) / [**python-garminconnect**](https://github.com/cyberjunky/python-garminconnect)
+
+> Python 3 API wrapper for Garmin Connect to get statistics and set activities.
+
+[![Stars of python-garminconnect on GitHub](https://img.shields.io/github/stars/cyberjunky/python-garminconnect?label=Stars&logo=github)](https://github.com/cyberjunky/python-garminconnect)
+[![Weekly downloads of garminconnect on PyPI](https://img.shields.io/pypi/dw/garminconnect?label=Downloads&logo=pypi)](https://pypi.org/project/garminconnect/)
+[![Top language of python-garminconnect](https://img.shields.io/github/languages/top/cyberjunky/python-garminconnect)](https://github.com/cyberjunky/python-garminconnect)
+
+---
+
+[vim-zz](https://github.com/vim-zz) / [**something_bg**](https://github.com/vim-zz/something_bg)
+
+> A native menu bar utility for managing background processes, SSH tunnels, and scheduled tasks.
+
+[![Stars of something_bg on GitHub](https://img.shields.io/github/stars/vim-zz/something_bg?label=Stars&logo=github)](https://github.com/vim-zz/something_bg)
+[![Top language of something_bg](https://img.shields.io/github/languages/top/vim-zz/something_bg)](https://github.com/vim-zz/something_bg)
 
 ---
 
