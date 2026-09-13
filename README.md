@@ -23,9 +23,7 @@ I like to contribute to open-source projects in my free time.
 
 ---
 
-<details><summary><strong>Some of my projects... ✨</strong></summary>
-
----
+#### Some of my projects... ✨
 
 [MishaKav](https://github.com/MishaKav) / [**pytest-coverage-comment**](https://github.com/MishaKav/pytest-coverage-comment)
 
@@ -49,28 +47,7 @@ I like to contribute to open-source projects in my free time.
 
 ---
 
-</details>
-
-
 <details><summary><strong>Some of my contributions went to... ❤️</strong></summary>
-
----
-
-[linear-b](https://github.com/linear-b) / [**gitstream**](https://github.com/linear-b/gitstream)
-
-> Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
-
-[![Stars of gitstream on GitHub](https://img.shields.io/github/stars/linear-b/gitstream?label=Stars&logo=github)](https://github.com/linear-b/gitstream)
-[![Top language of gitstream](https://img.shields.io/github/languages/top/linear-b/gitstream)](https://github.com/linear-b/gitstream)
-
----
-
-[linear-b](https://github.com/linear-b) / [**gitstream-github-action**](https://github.com/linear-b/gitstream-github-action)
-
-> This GitHub Action enables you to use the gitStream Continuous Merge (CM) script in your repositories to automate code review workflows.
-
-[![Stars of gitstream-github-action on GitHub](https://img.shields.io/github/stars/linear-b/gitstream-github-action?label=Stars&logo=github)](https://github.com/linear-b/gitstream-github-action)
-[![Top language of gitstream-github-action](https://img.shields.io/github/languages/top/linear-b/gitstream-github-action)](https://github.com/linear-b/gitstream-github-action)
 
 ---
 
@@ -94,15 +71,6 @@ I like to contribute to open-source projects in my free time.
 
 ---
 
-[Schneegans](https://github.com/Schneegans) / [**dynamic-badges-action**](https://github.com/Schneegans/dynamic-badges-action)
-
-> This action allows you to create badges for your README.md with shields.io which may change with every commit. To do this, this action does not need to push anything to your repository!
-
-[![Stars of dynamic-badges-action on GitHub](https://img.shields.io/github/stars/Schneegans/dynamic-badges-action?label=Stars&logo=github)](https://github.com/Schneegans/dynamic-badges-action)
-[![Top language of dynamic-badges-action](https://img.shields.io/github/languages/top/Schneegans/dynamic-badges-action)](https://github.com/Schneegans/dynamic-badges-action)
-
----
-
 [cyberjunky](https://github.com/cyberjunky) / [**python-garminconnect**](https://github.com/cyberjunky/python-garminconnect)
 
 > Python 3 API wrapper for Garmin Connect to get statistics and set activities.
@@ -119,6 +87,33 @@ I like to contribute to open-source projects in my free time.
 
 [![Stars of garmin_mcp on GitHub](https://img.shields.io/github/stars/Taxuspt/garmin_mcp?label=Stars&logo=github)](https://github.com/Taxuspt/garmin_mcp)
 [![Top language of garmin_mcp](https://img.shields.io/github/languages/top/Taxuspt/garmin_mcp)](https://github.com/Taxuspt/garmin_mcp)
+
+---
+
+[linear-b](https://github.com/linear-b) / [**gitstream**](https://github.com/linear-b/gitstream)
+
+> Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
+
+[![Stars of gitstream on GitHub](https://img.shields.io/github/stars/linear-b/gitstream?label=Stars&logo=github)](https://github.com/linear-b/gitstream)
+[![Top language of gitstream](https://img.shields.io/github/languages/top/linear-b/gitstream)](https://github.com/linear-b/gitstream)
+
+---
+
+[Schneegans](https://github.com/Schneegans) / [**dynamic-badges-action**](https://github.com/Schneegans/dynamic-badges-action)
+
+> This action allows you to create badges for your README.md with shields.io which may change with every commit. To do this, this action does not need to push anything to your repository!
+
+[![Stars of dynamic-badges-action on GitHub](https://img.shields.io/github/stars/Schneegans/dynamic-badges-action?label=Stars&logo=github)](https://github.com/Schneegans/dynamic-badges-action)
+[![Top language of dynamic-badges-action](https://img.shields.io/github/languages/top/Schneegans/dynamic-badges-action)](https://github.com/Schneegans/dynamic-badges-action)
+
+---
+
+[linear-b](https://github.com/linear-b) / [**gitstream-github-action**](https://github.com/linear-b/gitstream-github-action)
+
+> This GitHub Action enables you to use the gitStream Continuous Merge (CM) script in your repositories to automate code review workflows.
+
+[![Stars of gitstream-github-action on GitHub](https://img.shields.io/github/stars/linear-b/gitstream-github-action?label=Stars&logo=github)](https://github.com/linear-b/gitstream-github-action)
+[![Top language of gitstream-github-action](https://img.shields.io/github/languages/top/linear-b/gitstream-github-action)](https://github.com/linear-b/gitstream-github-action)
 
 ---
 
