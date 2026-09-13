@@ -15,7 +15,7 @@ I like to contribute to open-source projects in my free time.
 ![Profile views](https://komarev.com/ghpvc/?username=MishaKav&base=654)
 
 <a href="https://github.com/MishaKav">
-  <img align="center" src="./profile/stats.svg" alt="Misha's GitHub stats" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=MishaKav&show_icons=true&theme=default&hide_title=false&include_all_commits=false" alt="Misha's GitHub stats" />
 </a>
 <a href="https://github.com/MishaKav">
   <img align="center" src="https://streak-stats.demolab.com?user=MishaKav" alt="Misha's GitHub streak" />
