@@ -1,14 +1,17 @@
 ### Welcome to my GitHub Profile 👋
 
-Hi! I'm Misha, a `/(Technical Lead | Senior Fullstack Developer)/` from Tel Aviv, Israel 🇮🇱
+Hi! I'm Misha, a `/(Tech Lead | AI & DevEx)/` from Tel Aviv, Israel 🇮🇱
 
-I like to contribute to open-source projects in my free time.
+I build AI-powered developer tools that ship to production, and contribute to open-source in my free time.
 
 **What I'm into these days:**
 
 - 🛠️ **Developer Experience & workflow automation** — I work at [LinearB](https://linearb.io) on [gitStream](https://github.com/linear-b/gitstream), automating code review, PR routing and merge policies so engineers spend less time waiting and more time shipping.
 - 🤖 **AI-assisted engineering** — building [MCP](https://modelcontextprotocol.io) servers and agent tooling, and wiring AI into everyday dev workflows (code review, CI, release automation).
 - ⚙️ **GitHub Actions** — my coverage-comment actions are used by teams at AWS, Microsoft and Node.js.
+- 🎓 **Claude Certified Architect – Foundations** (Anthropic).
+
+<a href="https://www.credly.com/badges/fb681090-d8fa-497b-b67f-0da0aeeae213/public_url"><img src="https://images.credly.com/images/f2040db3-3904-4240-8966-e87b1510bea0/linkedin_thumb_blob" width="110" alt="Claude Certified Architect – Foundations" /></a>
 
 [![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=github)](https://github.com/sponsors/MishaKav)
 [![wakatime](https://wakatime.com/badge/user/f838c8aa-c197-42f0-b335-cd1d26159dfd.svg)](https://wakatime.com/@f838c8aa-c197-42f0-b335-cd1d26159dfd)
